@@ -25,7 +25,7 @@ for times in range(256):
     bob.right(120)
     bob.left(180)
     bob.right(150)
-    bob.left(130)
+    bob.left(120)
     bob.right(110)
     bob.left(100)
     bob.right(20)
